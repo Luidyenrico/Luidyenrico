@@ -7,6 +7,12 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luidyenrico&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luidyenrico&layout=compact&langs_count=6&theme=midnight-purple"/>
 </div>
+    
+<div align="center">
+  
+![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+
+</div>
 
 ## Skills
 <div style="display: inline_block">
@@ -31,9 +37,5 @@
 </p>
 -->
 
-<div align="center">
-  
-![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
 
-</div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6930AA&height=120&section=footer"/>
