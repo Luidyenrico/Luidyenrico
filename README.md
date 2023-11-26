@@ -1,5 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8E41E7&height=120&section=header"/>
-## I'm Luidy Enrico
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Luidy+Enrico;I'm+20+years+old;I'm+from+Brazil;I+Graduated+in+Analysis+and+Systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+Graduated in Analysis and Systems Development
 
  <div>
    <a href="https://github.com/luidyenrico">
