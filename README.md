@@ -10,6 +10,7 @@
     
 <br>
 <div align="center">
+ <a href="https://github.com/luidyenrico">
  <img src="https://github-readme-streak-stats.herokuapp.com?user=luidyenrico&theme=midnight-purple&hide_border=true" width="400">
 </div>   
 
