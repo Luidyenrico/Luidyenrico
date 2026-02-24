@@ -25,10 +25,6 @@
 <div style="display: inline_block">
   <img align="center" alt="Python" height="30" width="40"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="LangChain" height="30" width="40"
-       src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/langchain.svg">
-  <img align="center" alt="Agno AI" height="30" width="40"
-       src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg">
   <img align="center" alt="Pandas" height="30" width="40"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
   <img align="center" alt="NumPy" height="30" width="40"
