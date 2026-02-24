@@ -2,11 +2,6 @@
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8E41E7&size=35&center=true&vCenter=true&width=1000&lines=HELLO!,+My+name+is+Luidy+Enrico;I'm+20+years+old;I'm+from+Brazil;I+Graduated+in+Analysis+and+Systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg) -->
 
- <div align="center">
-   <a href="https://github.com/luidyenrico">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luidyenrico&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luidyenrico&layout=compact&langs_count=6&theme=midnight-purple"/>
-</div>
     
 <br>
 
