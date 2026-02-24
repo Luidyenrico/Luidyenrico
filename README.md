@@ -23,9 +23,22 @@
 
 ## Skills
 <div style="display: inline_block">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Python" height="30" width="40"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Artificial Intelligence" height="30" width="40"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg">
+  <img align="center" alt="Pandas" height="30" width="40"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
+  <img align="center" alt="NumPy" height="30" width="40"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
+  <img align="center" alt="SQL" height="30" width="40"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Power BI" height="30" width="40"
+       src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg">
+  <img align="center" alt="Playwright" height="30" width="40"
+       src="https://playwright.dev/img/playwright-logo.svg">
+  <img align="center" alt="Git" height="30" width="40"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
  
 <br>
